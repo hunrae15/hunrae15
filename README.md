@@ -17,7 +17,7 @@
 ### 🔗 Links
 - 📘 **Portfolio**: [Notion 포트폴리오](https://notion.so/yourlink)
 - 📂 **Resume**: [이력서 보기 (PDF)](https://your-resume-link.com)
-- 💼 **GitHub**: [github.com/khr6687](https://github.com/khr6687)
+- 💼 **GitHub**: [github.com/khr6687](https://github.com/hunrae15)
 - ✉️ **Email**: your@email.com
 
 ---
